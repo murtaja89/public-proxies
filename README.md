@@ -1,2 +1,56 @@
-# public-proxies
-🌐 Public Proxy List (Updated Every 2 Hours)
+# 🌐 Public Proxy List (Updated Every 2 Hours)
+
+Welcome to the **Public Proxy Feed** — a continuously updated list of verified, working proxy servers.
+
+> ⚡️ All proxies are automatically scanned, tested, and updated every **2 hours**.
+
+---
+
+## ✅ Features
+
+- **Fresh & Verified**: Proxies are automatically fetched, checked, and published.
+- **High Compatibility**:
+  - Works with websites like **Cloudflare-protected** sites
+  - Includes proxies that **bypass Google restrictions**
+- **Detailed Metadata**:
+  - Country
+  - Region / City
+  - ISP
+  - Ping (ms)
+  - Anonymity check
+- **Multiple formats**:
+  - Raw proxy list (`working_proxies.txt`)
+  - HTML table (`index.html`) with sorting and visibility filters
+
+---
+
+## 📁 Files in This Repo
+
+| File                 | Description                                      |
+|----------------------|--------------------------------------------------|
+| `working_proxies.txt`| Plain text list of working proxies               |
+| `index.html`         | Beautiful, sortable table view of proxies       |
+
+> Tip: You can view `index.html` directly in your browser or serve it via GitHub Pages.
+
+---
+
+## 🔁 Update Schedule
+
+The list is updated automatically **every 2 hours** via GitHub Actions.
+No manual refresh is required.
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository **does not provide the scanning script** or logic.
+- It only contains the **output of a private automated system** that verifies proxy availability and quality.
+- Use responsibly and in accordance with your local laws and the terms of the services you access.
+
+---
+
+## ❤️ Maintained by
+
+[Konorze](https://github.com/Konorze) — with love for open networking tools.
+
