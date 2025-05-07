@@ -1,3 +1,4 @@
+🔗 [🔍 View Proxies Live (HTML Table)](https://konorze.github.io/public-proxies/proxies.html)
 # 🌐 Public Proxy List (Updated Every 2 Hours)
 
 Welcome to the **Public Proxy Feed** — a continuously updated list of verified, working proxy servers.
